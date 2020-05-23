@@ -1,6 +1,6 @@
-# first_app
+# Quiz Demo App
 
-A new Flutter project.
+A dummy quiz up made using flutter.
 
 ## Getting Started
 
